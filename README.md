@@ -1,5 +1,7 @@
 # Recipe App in Flutter
 
+Our app, crafted with Flutter and Firebase, simplifies recipe management. Users add and explore recipes, purchase ingredients effortlessly, track orders, and favorite community recipes.
+
 ## Developed by
 
 https://github.com/daniel-was-taken
